@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="76" fill="#0a0a0a"/>
+  <rect x="40" y="40" width="432" height="432" rx="40" fill="#111" stroke="#33ff33" stroke-width="4"/>
+  <text x="256" y="210" text-anchor="middle" fill="#33ff33" font-family="monospace" font-weight="bold" font-size="96">ZORK</text>
+  <text x="256" y="300" text-anchor="middle" fill="#20aa20" font-family="monospace" font-size="42">The Great</text>
+  <text x="256" y="360" text-anchor="middle" fill="#20aa20" font-family="monospace" font-size="42">Underground</text>
+  <text x="256" y="420" text-anchor="middle" fill="#20aa20" font-family="monospace" font-size="42">Empire</text>
+</svg>
